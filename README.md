@@ -45,17 +45,6 @@ This project implements a **sophisticated reinforcement learning system** that l
 - **Profit Optimization**: Expected value maximization through strategic betting
 - **Statistical Validation**: Rigorous experimental design with confidence intervals
 
-## 📊 Performance Results
-
-| Strategy Type | Win Rate | Expected Value | Hourly Profit* | Training Episodes |
-|---------------|----------|----------------|----------------|-------------------|
-| **Basic Strategy** | 49.1% | -0.5% | -$2.50 | 100,000 |
-| **Point Count** | 51.2% | +1.2% | +$15.00 | 500,000 |
-| **Enhanced System** | 52.8% | +2.1% | +$28.50 | 750,000 |
-| **Rule Variation 1** | 48.9% | -0.6% | -$3.00 | 100,000 |
-| **Rule Variation 2** | 49.4% | -0.3% | -$1.50 | 100,000 |
-
-*Based on 100 hands/hour, $10 average bet with optimal betting spread
 
 ### **Learning Convergence Analysis**
 - **State-Action Space**: ~15,000 unique states with card counting
