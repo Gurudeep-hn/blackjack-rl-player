@@ -52,17 +52,6 @@ This project implements a **sophisticated reinforcement learning system** that l
 - **Memory Efficiency**: Optimized state representation for large-scale learning
 - **Statistical Significance**: All results validated with 95% confidence intervals
 
-## 🚀 Getting Started
-
-### **Prerequisites**
-```bash
-Python 3.8+
-NumPy >= 1.21.0
-Matplotlib >= 3.4.0
-Pandas >= 1.3.0
-Jupyter >= 1.0.0
-
-
 ## 🔬 Research Contributions
 
 ### **Scientific Questions Addressed**
