@@ -29,13 +29,13 @@ This project implements a **sophisticated reinforcement learning system** that l
 
 ### **Research Tasks Completed**
 
-#### **Task P3.1: Reinforcement Learning Implementation**
+#### **Task 1: Reinforcement Learning Implementation**
 1. **Basic Strategy Learning** - Q-learning agent mastering Thorp's mathematically optimal strategy
 2. **Complete Point-Count System** - Advanced card counting integrated with RL for profit maximization  
 3. **Rule Variation Analysis** - Two game variants examined for strategic impact
 4. **Profit Enhancement** - Advanced techniques to exceed standard Point-Count performance
 
-#### **Task P3.2: IEEE Conference Paper**
+#### **Task 2: IEEE Conference Paper**
 6-page research paper documenting methodology, experiments, and findings using official IEEE template.
 
 ### **Technical Highlights**
@@ -66,39 +66,5 @@ This project implements a **sophisticated reinforcement learning system** that l
 - **Large state spaces** require careful balance between detail and convergence
 - **Card counting integration** with RL enables superhuman profit optimization
 
-## 🎓 Skills Demonstrated
-
-**Reinforcement Learning:**
-- Custom Q-learning implementation without external frameworks
-- Large state-space handling and function approximation
-- Exploration-exploitation balance optimization
-- Multi-strategy comparison and evaluation
-
-**Mathematical Modeling:**
-- Markov Decision Process formulation for card games
-- Statistical analysis and hypothesis testing
-- Probability theory and expected value calculations  
-- Game theory and optimal strategy derivation
-
-**Academic Research:**
-- IEEE-standard conference paper writing
-- Experimental design and statistical validation
-- Literature review and theoretical grounding
-- Reproducible research with comprehensive documentation
-
-## 📧 Contact
-
-**Gurudeep Haleangadi Nagesh**  
-Master's Student in Artificial Intelligence  
-Technical University of Applied Sciences Würzburg-Schweinfurt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gurudeephn)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Gurudeep-hn)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gurudeep409@gmail.com)
-
 ---
 
-**⭐ If you found this reinforcement learning implementation valuable, please give it a star!**
-
-*This project demonstrates advanced RL techniques for strategic optimization under uncertainty, with applications in finance, gaming, and autonomous decision-making systems.*
-```
